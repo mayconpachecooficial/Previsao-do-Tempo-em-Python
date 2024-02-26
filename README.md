@@ -1,4 +1,3 @@
-Inspiração e Intenção Inicial:
 Este código surgiu da minha curiosidade em integrar dados climáticos em uma aplicação Python. A inspiração veio da vontade de fornecer informações meteorológicas atualizadas para usuários de uma maneira simples e direta. Utilizando a API de tempo da OpenWeatherMap, meu objetivo era criar uma solução eficaz para recuperar e exibir dados climáticos.
 
 Implementação Inicial com a API OpenWeatherMap:
